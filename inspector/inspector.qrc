@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.css</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bertram.svg</file>
+        <file>icon.icns</file>
+        <file>icon.ico</file>
+        <file>check-button.svg</file>        
+        <file>expand-button.svg</file>
+        <file>minus-button.svg</file>
+        <file>plus-button.svg</file>
+    </qresource>
+</RCC>

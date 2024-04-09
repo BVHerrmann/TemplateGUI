@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>login.svg</file>
+        <file>logout.svg</file>
+    </qresource>
+</RCC>
